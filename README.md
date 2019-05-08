@@ -27,3 +27,13 @@ Visual Studio Code 进入插件安装：Ctrl + Shift + X
 cd到我们的项目目录,创建对应的页面文件夹：
 
 ionic g page booklist
+
+安装淘宝cnpm
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+
+F:\ionic\jdshop05>cnpm config get registry
+https://registry.npm.taobao.org/
+
+F:\ionic\jdshop05>npm config get registry
+https://registry.npmjs.org/
