@@ -37,6 +37,19 @@ F:\ionic\jdshop05>cnpm config get registry
 
 https://registry.npm.taobao.org/
 
+
 F:\ionic\jdshop05>npm config get registry
 
 https://registry.npmjs.org/
+
+
+
+
+
+
+
+npm设置和查看仓库源
+
+https://www.cnblogs.com/wenjunwei/p/10078460.html
+
+
