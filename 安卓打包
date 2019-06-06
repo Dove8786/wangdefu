@@ -1,1 +1,15 @@
-撒旦法撒旦
+1、cmd进入相应项目文件夹
+
+2、执行ionic cordova platform add android
+
+3、然后打开android studio 软件 打开现有项目
+
+4、找到相应的安卓文件夹 \tuhaoApp\platforms\android 打开
+
+5、打开之后会自动安装编译，如有报错 点击move 或者 File下的 Sync Project with Gradle Files
+
+6、提示 completed successfully 后 点击导航栏 run 下面的 run app
+
+7、数据线连接手机，手机设置为调试模式，点击OK就可以安装了。
+
+
