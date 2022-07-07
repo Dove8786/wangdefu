@@ -29,7 +29,7 @@
     "ion2-calendar": "^3.0.0-rc.0",
     "ionic-angular": "^3.9.4",
     "ionic-img-viewer": "^2.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.29"
   },
